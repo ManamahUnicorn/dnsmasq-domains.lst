@@ -1,0 +1,4 @@
+nftset=/.ua/4#inet#fw4#vpn_domains
+nftset=/deepl.com/4#inet#fw4#vpn_domains
+nftset=/nodaadmin.b2clogin.com/4#inet#fw4#vpn_domains
+nftset=/hub.noda.live/4#inet#fw4#vpn_domains
